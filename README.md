@@ -1,6 +1,6 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-I045
+### **GEN26-A0H-I045**
 #### **Sneakers** 
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |   Hosteller/Day Scholor         |
